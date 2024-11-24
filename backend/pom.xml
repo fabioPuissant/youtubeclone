@@ -55,7 +55,7 @@
         <dependency>
             <groupId>org.springframework.data</groupId>
             <artifactId>spring-data-mongodb</artifactId>
-            <version>3.4.17</version>
+            <version>4.2.11</version>
         </dependency>
     </dependencies>
     <build>
